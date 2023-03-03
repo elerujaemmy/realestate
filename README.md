@@ -4,11 +4,11 @@ This project is a Python and MySQL-based application for managing real estate pr
 
 # Table of Contents
 
-Installation
-Usage
-Technologies
-Contributing
-License
+Installation,
+Usage,
+Technologies,
+Contributing,
+License,
 
 # Installation
 
