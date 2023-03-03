@@ -8,7 +8,7 @@ Installation,
 Usage,
 Technologies,
 Contributing,
-License,
+License.
 
 # Installation
 
