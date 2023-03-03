@@ -12,8 +12,9 @@ License.
 
 # Installation
 
-Clone this repository using git clone https://github.com//real-estate-python-mysql.git
-Install the required Python packages by running pip install -r requirements.txt
+Clone this repository using git clone https://github.com/elerujaemmy/realestate.git
+Install Poetry by following the instructions on the official Poetry documentation
+Run poetry install to install the required Python packages and create a new virtual environment.
 Create a MySQL database named real_estate and import the real_estate.sql file to create the necessary tables and data.
 
 # Usage
@@ -35,3 +36,9 @@ MySQL
 SQLAlchemy
 Bootstrap
 jQuery
+
+# Contributing
+If you would like to contribute to this project, please create a new branch and submit a pull request. All contributions are welcome!
+
+# License
+This project is licensed under the MIT License.
